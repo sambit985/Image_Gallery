@@ -51,20 +51,20 @@ h2{
 }
 .filter-menu li:hover,
 .filter-menu li.current{
-    background: cyan;
+    background: tomato;
 }
 
 
 
 .filter-item li{
-    width: 50%;
-    padding: 2px;
+    width: 100%;
+    padding: 10px;
     float: left;
 }
 
 .filter-item li.active{
-    width: 70%;
-    padding: 5px;
+    width: 80%;
+    padding: 7px;
     transition: all 0.5s ease;
 }
 
